@@ -7,7 +7,7 @@ cask "softfocus" do
   desc "Menu-bar screen-break reminders (look-away, blink & posture)"
   homepage "https://github.com/sebastianbreguel/softfocus"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "SoftFocus.app"
 
