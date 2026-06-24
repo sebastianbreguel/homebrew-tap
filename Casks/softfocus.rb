@@ -1,6 +1,6 @@
 cask "softfocus" do
-  version "1.1.0"
-  sha256 "dc714ebfc41f67e0115098130d185e5d1fb114af0ed6e69d0766a19ff44c79bb"
+  version "1.1.1"
+  sha256 "0a7fc1df9169eec089aeafb2726708997ec2bc48c9c1d6b145806a53519f6aa0"
 
   url "https://github.com/sebastianbreguel/softfocus/releases/download/v#{version}/SoftFocus-#{version}.zip"
   name "SoftFocus"
